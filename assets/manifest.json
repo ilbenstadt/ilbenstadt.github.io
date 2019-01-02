@@ -1,7 +1,7 @@
 {
     "name": "Ilbenstadt App 2019",
     "short_name": "Ilbenstadt 2019",
-    "start_url": "/",
+    "start_url": "/index.html",
     "icons": [
         {
             "src": "/assets/android-chrome-192x192.png",
