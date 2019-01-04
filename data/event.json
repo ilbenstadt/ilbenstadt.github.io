@@ -39,7 +39,7 @@
             "endTime": "22:00",
             "name": "Kennenlern",
             "description": "Namensspiel für Erwachsenen und Betreuer",
-            "room": "Weißer Saal",
+            "room": "Gottfriedssaal",
             "isBreak": false
           }
         ]
@@ -77,7 +77,7 @@
             "startTime": "10:15",
             "endTime": "12:30",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
@@ -108,7 +108,7 @@
             "startTime": "15:20",
             "endTime": "18:00",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
@@ -116,6 +116,7 @@
             "startTime": "15:30",
             "endTime": "18:00",
             "name": "Workshops",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
@@ -185,15 +186,16 @@
             "startTime": "10:15",
             "endTime": "12:30",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
             "id": 305,
             "startTime": "10:25",
             "endTime": "12:30",
-            "name": "Erwachsenenrunde",
-            "room": "Gottfriedsbogen",
+            "name": "Spaziergang",
+            "description": "Erwachsene spazieren, feste Schuhe anziehen, Gelegenheit zum Einkaufen auf dem Rückweg",
+            "room": "Foyer (Treffpunkt)",
             "isBreak": false
           },
           {
@@ -216,7 +218,7 @@
             "startTime": "15:20",
             "endTime": "18:00",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
@@ -224,6 +226,7 @@
             "startTime": "15:30",
             "endTime": "18:00",
             "name": "Workshops",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
@@ -255,7 +258,7 @@
             "startTime": "21:00",
             "endTime": "22:00",
             "name": "Erwachsenenangebote",
-            "room": "Gruppenraum",
+            "room": "Gottfriedssaal",
             "isBreak": false
           }
         ]
@@ -293,7 +296,7 @@
             "startTime": "10:15",
             "endTime": "12:30",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
@@ -324,7 +327,7 @@
             "startTime": "15:20",
             "endTime": "18:00",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
@@ -332,6 +335,7 @@
             "startTime": "15:30",
             "endTime": "18:00",
             "name": "Workshops",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
@@ -402,15 +406,15 @@
             "startTime": "10:15",
             "endTime": "12:30",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Gruppenraum",
             "isBreak": false
           },
           {
             "id": 505,
             "startTime": "10:25",
             "endTime": "12:30",
-            "name": "Erwachsenenrunde",
-            "room": "Gottfriedsbogen",
+            "name": "Liturgische Vorbereitungen",
+            "room": "jeweiliger Gruppenraum",
             "isBreak": false
           },
           {
@@ -431,16 +435,25 @@
           {
             "id": 508,
             "startTime": "15:20",
-            "endTime": "18:00",
+            "endTime": "17:00",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
             "id": 509,
             "startTime": "15:30",
+            "endTime": "17:00",
+            "name": "Liturgische Vorbereitung",
+            "room": "jeweiliger Raum",
+            "isBreak": false
+          },
+          {
+            "id": 509,
+            "startTime": "17:00",
             "endTime": "18:00",
-            "name": "Workshops",
+            "name": "Agapefeier",
+            "room": "Weißer Saal",
             "isBreak": false
           },
           {
@@ -507,19 +520,11 @@
             "isBreak": false
           },
           {
-            "id": 604,
-            "startTime": "10:15",
-            "endTime": "12:30",
-            "name": "Kindergruppe",
-            "room": "Gruppenraum",
-            "isBreak": false
-          },
-          {
             "id": 605,
-            "startTime": "10:25",
-            "endTime": "12:30",
-            "name": "Erwachsenenrunde",
-            "room": "Gottfriedsbogen",
+            "startTime": "10:00",
+            "endTime": "11:30",
+            "name": "Kinderkreuzweg",
+            "room": "Park",
             "isBreak": false
           },
           {
@@ -542,14 +547,15 @@
             "startTime": "15:20",
             "endTime": "18:00",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
             "id": 609,
             "startTime": "15:30",
             "endTime": "18:00",
-            "name": "Workshops",
+            "name": "Karfreitagsandacht",
+            "room": "Kapelle",
             "isBreak": false
           },
           {
@@ -619,7 +625,7 @@
             "startTime": "10:15",
             "endTime": "12:30",
             "name": "Kindergruppe",
-            "room": "Gruppenraum",
+            "room": "jeweiliger Raum",
             "isBreak": false
           },
           {
@@ -651,7 +657,7 @@
             "endTime": "18:00",
             "name": "Osterwerkstadt",
             "description": "Familien basteln gemeinsam: Eierfärben, Karten basteln, Hefeteig formen, Osterkerze gestalten",
-            "room": "Stationen",
+            "room": "Hefe: Gottfriedssaal, Eier: roter Raum, Kerze: gelber Raum, Karten: Pilgerhaus",
             "isBreak": false
           },
           {
@@ -801,27 +807,21 @@
       "id": 1,
       "name": "Bibliolog",
       "description": "Bilbel neu erleben.",
-      "leaders": [
-        1
-      ],
+      "leaders": [1],
       "room": "Kapelle"
     },
     {
       "id": 2,
       "name": "Tanzen und Malen",
       "description": "Worte, Texte, Inspirationen, Begegnungen.",
-      "leaders": [
-        2
-      ],
+      "leaders": [2],
       "room": "Weißer Saal"
     },
     {
       "id": 3,
       "name": "Phantasie",
       "description": "Traumreise, Geschichten, Pastellkreidemalen, Musik.",
-      "leaders": [
-        3
-      ],
+      "leaders": [3],
       "room": "Gelber Gruppenraum"
     }
   ],
