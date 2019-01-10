@@ -1,13 +1,13 @@
 {
   "configVersion": 1,
-  "index": "https://ilbenstadt.github.io/",
+  "index": "https://ilbenstadt.github.io/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://ilbenstadt.github.io/",
+        "https://ilbenstadt.github.io/index.html",
         "https://ilbenstadt.github.io/assets/favicon.ico",
         "https://ilbenstadt.github.io/inline.318b50c57b4eba3d437b.bundle.js",
         "https://ilbenstadt.github.io/main.7b393495e1fb3ceb1ee7.bundle.js",
