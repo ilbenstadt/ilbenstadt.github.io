@@ -466,15 +466,15 @@
           },
           {
             "id": 512,
-            "startTime": "20:30",
-            "endTime": "22:00",
+            "startTime": "21:30",
+            "endTime": "22:30",
             "name": "Gottestdienst",
             "room": "Kapelle",
             "isBreak": false
           },
           {
             "id": 513,
-            "startTime": "22:00",
+            "startTime": "23:00",
             "endTime": "07:00",
             "name": "Nachtwache",
             "description": "In Gruppen/Familien Schicht von 1h Nachwache halten, beten, singen, malen, schweigen",
@@ -513,8 +513,8 @@
           },
           {
             "id": 605,
-            "startTime": "10:00",
-            "endTime": "11:30",
+            "startTime": "10:30",
+            "endTime": "11:45",
             "name": "Kinderkreuzweg",
             "room": "Park",
             "isBreak": false
@@ -544,7 +544,7 @@
           },
           {
             "id": 609,
-            "startTime": "15:30",
+            "startTime": "15:00",
             "endTime": "18:00",
             "name": "Karfreitagsandacht",
             "room": "Kapelle",
